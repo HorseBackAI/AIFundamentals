@@ -1,5 +1,6 @@
 Why the performance on ImageNet 2012 competition got a significant improvement?
 Please brief the main innovation in winner's solution.
+
 > The winner's solution involved a multilayer neural network, allowing image recognition
 
 
